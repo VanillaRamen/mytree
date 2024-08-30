@@ -1,4 +1,4 @@
-treename = "The Tallest Tree On Earth"
-last_watered = 1725024863
-height = 15
+treename = "Tree"
+last_watered = 0
+height = 0
 chopped_wood = 0
