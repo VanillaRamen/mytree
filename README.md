@@ -7,7 +7,16 @@
 
 <p>
 1. Download all of the files (\_\_init\_\_.py, mytree.py, and treedata.py) and store them in a folder/directory somewhere. If you store them in a folder at the root of your user profile, it'll make it easiest to use the program as intended.
+</p>
+<p>
 2. Once you have them downloaded, open a Command Line Interface and navigate to the directory holding these files.
+</p>
+<p>
 3. Once there, run Python in interactive mode by entering <code>py</code>. Then, import the program with <code>import mytree</code>. You can also import it under a different name by doing something like <code>import mytree as t</code>. This will make it easier to run the functions in mytree.
+</p>
+<p>
 4. For a list of commands, run mytree.commands().
 </p>
+
+### How do I exit out?
+<p>Input <code>quit()</code> into the interactive interpreter to exit out.</p>
