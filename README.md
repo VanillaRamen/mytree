@@ -15,3 +15,8 @@ Required: You must have Python already downloaded to use this program.
 ### How do I exit out?
 
 `quit` the interactive python instance.
+
+## Note:
+
+I made this during my freshman year of university and kept it up as a reminder of roughly where I started.
+Please don't be too harsh on the version of me that made this. It's not maintained very well.
