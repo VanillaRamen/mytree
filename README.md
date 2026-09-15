@@ -1,9 +1,11 @@
 # mytree
 
 ### How do I use it?
-Note: At the moment, this program does not have a graphical interface. Instead, it uses the command line.
 
-Required: You must have Python already downloaded and configured to use this program. The latest version of Python is highly recommended. This program was built using Python version 3.12.X.
+Note: At the moment, this program does not have a graphical interface.
+Instead, it uses an interactive instance of python to facilitate interaction.
+
+Required: You must have Python already downloaded to use this program.
 
 1. Download all of the files (__init__.py, mytree.py, and treedata.py) and store them in a folder/directory somewhere.
 2. Once you have them downloaded, open a terminal and navigate to the directory holding these files.
