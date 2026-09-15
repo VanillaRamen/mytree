@@ -3,7 +3,7 @@ import treedata as t
 import importlib
 import sys
 
-sys.ps1 = "\nmytree.py--> "
+sys.ps1 = "mytree.py--> "
 
 #initialize
 with open("treedata.py", "r+t") as tdata:
